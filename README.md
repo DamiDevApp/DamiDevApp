@@ -1,9 +1,8 @@
 ## 🚀 About Me
  
 - 📱 Focused on **mobile-first** development for iOS & Android
-- 🤖 Passionate about integrating **AI** into practical, everyday applications
 - 🤝 Looking to collaborate with **driven teams** and **open-source projects**
-- 🌱 Currently leveling up in **Git workflows**, **React Native**, and **Swift**
+- 🌱 Currently leveling up in **Git workflows**, **React Native**, **Typescript**, **Django**, etc.
 - 📫 Reach me at: [damgonsal13@gmail.com](mailto:damgonsal13@gmail.com)
 - 😄 Pronouns: **He/Him**
 - ⚡ Hot take: Cheese is overrated — yes, most of it
